@@ -1,11 +1,11 @@
 // See https://aka.ms/new-console-template for more information
 static void Main(string[]arhs)
 {
-Console.Title = "C#"; //det laver om på navet af siden
+Console.Title = "C#"; //det laver om på navet af siden.
 
-Console.ForegroundColor = ConsoleColor.DarkBlue; //laver skriftensfave om
+Console.ForegroundColor = ConsoleColor.DarkBlue; //laver skriftensfave om.
 
-Console.WindowHeight = 25; // det er højten på windows
+Console.WindowHeight = 25; // det er højten på windows.
 Console.WindowWidth = 85;
 
 
